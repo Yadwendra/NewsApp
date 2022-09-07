@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Khanyiso Tshwaku",
+            "title": "Cricket SA considers new split-format contracting model",
+            "description": "Cricket South Africa's director of cricket Enoch Nkwe said they're already engaging in conversations around split-format contracts as the cricket world changes around them.",
+            "url": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-considers-new-split-format-contracting-model-20220906",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3617/07e57db19e634b30a690fc6a32de0878.jpg",
+            "publishedAt": "2022-09-06T10:15:33+00:00",
+            "content": "<ul><li>Cricket South Africa's director of cricket Enoch Nkwe expects the game move in the direction of split-format contracts.</li><li>It's something that’s already in place in England and the West … [+2879 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "HT Sports Desk",
+            "title": "Shami's Instagram story for Arshdeep Singh sends shockwaves among trolls",
+            "description": "Mohammed Shami put up an Instagram story in support of Arshdeep on Monday. \"Don't worry Arshdeep. We are with you. Focus on your upcoming game, don't look and listen to them,\" he wrote along with a photo of Arshdeep Singh. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/mohammed-shami-s-instagram-story-for-arshdeep-singh-sends-shockwaves-among-trolls-101662443865157.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/09/06/1600x900/arshdeep_shami_1662444276301_1662444288123_1662444288123.jpg",
+            "publishedAt": "2022-09-06T06:07:13+00:00",
+            "content": "Mohammed Shami is no stranger to social media trolls. The veteran India seamer was targetted after Pakistan beat India for the first time in a World Cup match during last year's T20 World Cup in Duba… [+2173 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
