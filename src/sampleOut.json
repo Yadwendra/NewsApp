@@ -1,58 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 4,
+    "totalResults": 36,
     "articles": [
-        {
-            "source": {
-                "id": "news24",
-                "name": "News24"
-            },
-            "author": "Khanyiso Tshwaku",
-            "title": "Cricket SA considers new split-format contracting model",
-            "description": "Cricket South Africa's director of cricket Enoch Nkwe said they're already engaging in conversations around split-format contracts as the cricket world changes around them.",
-            "url": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-considers-new-split-format-contracting-model-20220906",
-            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3617/07e57db19e634b30a690fc6a32de0878.jpg",
-            "publishedAt": "2022-09-06T10:15:33+00:00",
-            "content": "<ul><li>Cricket South Africa's director of cricket Enoch Nkwe expects the game move in the direction of split-format contracts.</li><li>It's something that’s already in place in England and the West … [+2879 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news-in",
-                "name": "Google News (India)"
-            },
-            "author": "HT Sports Desk",
-            "title": "Shami's Instagram story for Arshdeep Singh sends shockwaves among trolls",
-            "description": "Mohammed Shami put up an Instagram story in support of Arshdeep on Monday. \"Don't worry Arshdeep. We are with you. Focus on your upcoming game, don't look and listen to them,\" he wrote along with a photo of Arshdeep Singh. | Cricket",
-            "url": "https://www.hindustantimes.com/cricket/mohammed-shami-s-instagram-story-for-arshdeep-singh-sends-shockwaves-among-trolls-101662443865157.html",
-            "urlToImage": "https://images.hindustantimes.com/img/2022/09/06/1600x900/arshdeep_shami_1662444276301_1662444288123_1662444288123.jpg",
-            "publishedAt": "2022-09-06T06:07:13+00:00",
-            "content": "Mohammed Shami is no stranger to social media trolls. The veteran India seamer was targetted after Pakistan beat India for the first time in a World Cup match during last year's T20 World Cup in Duba… [+2173 chars]"
-        },
-        {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-            "publishedAt": "2020-04-27T11:41:47Z",
-            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
-        },
-        {
-            "source": {
-                "id": "espn-cric-info",
-                "name": "ESPN Cric Info"
-            },
-            "author": null,
-            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-            "publishedAt": "2020-03-30T15:26:05Z",
-            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
-        }
+    {
+    "source": {
+    "id": null,
+    "name": "Florida Today"
+    },
+    "author": "Jennifer Sangalang, Emre Kelly, Jamie Groh, Rick Neale and Finch Walker, Florida Today",
+    "title": "NASA Artemis launch time, traffic, schedule: Everything you need to know - Florida Today",
+    "description": "Godspeed, take two. NASA will try a second time to launch its Artemis I rocket from Kennedy Space Center.",
+    "url": "https://www.floridatoday.com/story/tech/science/space/2022/09/02/nasa-artemis-launch-time-traffic-schedule-kennedy-space-center-florida/7949946001/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/08/27/PBRE/63b8448b-6609-4a75-aff7-f6ee1a94b310-crb082722_artemis_6_.jpg?auto=webp&crop=2720,1530,x159,y0&format=pjpg&width=1200",
+    "publishedAt": "2022-09-03T06:15:15Z",
+    "content": "Space is important to us and that’s why we're working to bring you top coverage of the industry and Florida launches. Journalism like this takes time and resources. Please support it with a subscript… [+7101 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Megan Henney",
+    "title": "Solid August jobs report leaves another jumbo Fed rate hike on the table in September - Fox Business",
+    "description": "U.S. employers added 315,000 jobs in August, opening the door to another super-sized interest rate hike when Fed policymakers meet at the end of September.",
+    "url": "https://www.foxbusiness.com/economy/solid-august-jobs-report-leaves-jumbo-fed-rate-hike-table-september",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/08/0/0/powell-8.9.22.jpeg?ve=1&tl=1",
+    "publishedAt": "2022-09-03T04:57:15Z",
+    "content": "U.S. job growth cooled in August but hiring likely remained healthy enough last month for the Federal Reserve to approve another jumbo interest rate hike when it meets later this month. \r\nEmployers a… [+4215 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Honolulu Star-Advertiser"
+    },
+    "author": "Associated Press",
+    "title": "Northern California wildfire burns homes, causes injuries - Honolulu Star-Advertiser",
+    "description": "WEED, Calif. >> A fast-moving wildfire in rural Northern California injured several people Friday, destroyed multiple homes and forced thousands of residents to flee, jamming roadways at the start of a sweltering Labor Day weekend.",
+    "url": "https://www.staradvertiser.com/2022/09/02/breaking-news/thousands-told-to-flee-3-towns-ahead-of-fast-california-fire/",
+    "urlToImage": "https://www.staradvertiser.com/wp-content/uploads/2022/09/web1_12912833-b14aae3104e244f19b4adf43e6bf44c2.jpg",
+    "publishedAt": "2022-09-03T03:45:00Z",
+    "content": "WEED, Calif. &gt;&gt; A fast-moving wildfire in rural Northern California injured several people Friday, destroyed multiple homes and forced thousands of residents to flee, jamming roadways at the st… [+5841 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Steve Almasy, Jill Martin",
+    "title": "Serena Williams' legendary tennis career likely over after third-round singles' play loss at US Open - CNN",
+    "description": "Serena Williams' legendary tennis career has likely come to an end after she fell to Australia's Ajla Tomljanović in the third round of the US Open at Arthur Ashe Stadium in Flushing, New York. The 23-time grand slam singles champion leaves an indelible mark,…",
+    "url": "https://www.cnn.com/2022/09/02/tennis/serena-williams-ajla-tomljanovic-us-open-spt-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220902211115-07-serena-williams-090222.jpg?q=w_800,c_fill",
+    "publishedAt": "2022-09-03T03:09:00Z",
+    "content": "Serena Williams legendary tennis career has likely come to an end after she fell to Australias Ajla Tomljanovi in the third round of the US Open at Arthur Ashe Stadium in Flushing, New York. \r\nThe 23… [+4292 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Simrin Singh",
+    "title": "Jane Fonda, actor and climate activist, diagnosed with non-Hodgkin's lymphoma - CBS News",
+    "description": "\"This is a very treatable cancer. 80% of people survive, so I feel very lucky,\" she wrote on Instagram.",
+    "url": "https://www.cbsnews.com/news/jane-fonda-diagnosed-with-non-hodgkins-lymphoma/",
+    "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/09/02/b04b99ef-db9c-4e36-9746-6b15a481a784/thumbnail/1200x630/35150546b68e0238d06fce02a82a6223/gettyimages-1393277830.jpg",
+    "publishedAt": "2022-09-03T03:07:00Z",
+    "content": "Jane Fonda has been diagnosed with non-Hodgkin's lymphoma and has started chemotherapy, the 84-year-old actor announced Friday. She shared the news in an Instagram post, explaining that she is hopefu… [+2327 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Astrologyzone.com"
+    },
+    "author": null,
+    "title": "Virgo Horoscope for September 2022 - Susan Miller Astrology Zone - Astrology Zone",
+    "description": "The latest in astrological trends by Susan Miller, comprehensive, complete, intelligent, and accurate. Your life in 3D: culture, style, romance, money, real estate, career advancement, travel, health, fitness, and more.",
+    "url": "https://www.astrologyzone.com/forecasts/virgo-horoscope-for-september-2022/",
+    "urlToImage": "https://www.astrologyzone.com/wp-content/uploads/2022/09/VIR-958.jpg",
+    "publishedAt": "2022-09-03T02:24:45Z",
+    "content": "Join Susan Miller Stars\r\nYour chart is very lit up, with many happy planets making preparations for your glorious, financially generous months ahead. Its birthday time, and to help you celebrate, the… [+1459 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Guardian staff reporter",
+    "title": "Eight killed and dozens rescued from river at hazardous US-Mexico border crossing - The Guardian US",
+    "description": "Days of heavy rain caused dangerous currents in the Rio Grande in an area where people frequently cross into Texas",
+    "url": "https://amp.theguardian.com/us-news/2022/sep/02/rio-grande-border-crossing-eight-killed",
+    "urlToImage": "https://i.guim.co.uk/img/media/befa92db0d3389f2c242aa97e516628cc42b4814/0_110_3900_2340/master/3900.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f44f155bc507f84b8248c9f39f5031a",
+    "publishedAt": "2022-09-03T02:18:00Z",
+    "content": "At least eight people were found dead in the Rio Grande while attempting a hazardous crossing in Texas, officials said on Friday.\r\nThe discovery was made by US Customs and Border Protection (CBP) and… [+1368 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jamie Gangel, Kristen Holmes, Jeremy Herb and Evan Perez, CNN",
+    "title": "After Mar-a-Lago search, Meadows turns over more texts and emails to Archives - CNN",
+    "description": "Within a week of the FBI search of former President Donald Trump's Mar-a-Lago resort, former White House chief of staff Mark Meadows handed over texts and emails to the National Archives that he had not previously turned over from his time in the administrati…",
+    "url": "https://www.cnn.com/2022/09/02/politics/mark-meadows-texts-emails-national-archives/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220902174605-mark-meadows-file-restricted-072522-super-tease.jpg",
+    "publishedAt": "2022-09-03T01:04:00Z",
+    "content": "(CNN)Within a week of the FBI search of former President Donald Trump's Mar-a-Lago resort, former White House chief of staff Mark Meadows handed over texts and emails to the National Archives that he… [+5577 chars]"
+    },
+    {
+    "source": {
+    "id": "entertainment-weekly",
+    "name": "Entertainment Weekly"
+    },
+    "author": "Emlyn Travis",
+    "title": "Maren Morris and Brittany Aldean clash again amid backlash to Aldean's transphobic remarks - Entertainment Weekly News",
+    "description": "Morris has reacted to an interview Jason Aldean's wife gave Tucker Carlson on Fox News a week after she posted a series of controversial comments about transgender children.",
+    "url": "https://ew.com/music/maren-morris-brittany-aldean-clash-again-transphobic-remarks/",
+    "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C0%2C2000%2C1000&poi=%5B980%2C0%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F09%2F02%2FMaren-Morris-Jason-Brittany-Aldean-090222.jpg",
+    "publishedAt": "2022-09-03T00:48:00Z",
+    "content": "The feud between country star Maren Morris and Jason Aldean's influencer wife, Brittany Aldean, rages on.\r\nThe stars' dispute stems from an Instagram makeup video Brittany posted on Aug. 23 that incl… [+3170 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "Adam B. Vary",
+    "title": "‘The Rings of Power’ Star Morfydd Clark Defends Galadriel as Action Hero: ‘Her Serenity Is Hard Earned’ - Variety",
+    "description": "“The Lord of the Rings: The Rings of Power” is as big a TV show as TV shows have ever been, with a record-setting budget spent on recreating J.R.R. Tolkien’s Middle-earth during the Second Age, and a cast of nearly two dozen series regulars and dozens more fe…",
+    "url": "https://variety.com/2022/tv/news/rings-of-power-morfydd-clark-galadriel-warrior-new-zealand-1235358876/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2022/09/CREDIT_BEN_ROTHSTEIN_PRIME_VIDEO_00070_R2.jpg?w=1024",
+    "publishedAt": "2022-09-03T00:19:00Z",
+    "content": "“The Lord of the Rings: The Rings of Power” is as big a TV show as TV shows have ever been, with a record-setting budget spent on recreating J.R.R. Tolkien’s Middle-earth during the Second Age, and a… [+9478 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": null,
+    "title": "Injuries, destruction reported in Northern California blaze - The Associated Press",
+    "description": "WEED, Calif. (AP) — A fast-moving fire in Northern California injured several people, a fire official said, and destroyed multiple homes Friday as thousands of residents were forced to leave immediately, jamming roadways at the start of a sweltering Labor Day…",
+    "url": "https://apnews.com/article/wildfires-california-los-angeles-fires-department-of-forestry-and-fire-protection-7b1c058d29c99a6630a6bfdf86b4f994",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/11b7c0fc435e49fe8a33221e4998be6b/2000.jpeg",
+    "publishedAt": "2022-09-02T23:48:45Z",
+    "content": "WEED, Calif. (AP) A fast-moving fire in Northern California injured several people, a fire official said, and destroyed multiple homes Friday as thousands of residents were forced to leave immediatel… [+6350 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Mitchell Clark",
+    "title": "Meta's chip deal with Qualcomm may reflect its unrealized VR ambitions - The Verge",
+    "description": "Meta’s next Quest headsets will be powered by customized versions of Qualcomm’s Snapdragon XR chips. Is that what Meta wanted, or is it a backup plan?",
+    "url": "https://www.theverge.com/2022/9/2/23334656/meta-qualcomm-quest-vr-ar-snapdragon-xr-custom-chips",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/_wZV6QhjvS43T94AxGKXf0cp5i4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22977156/acastro_211101_1777_meta_0002.jpg",
+    "publishedAt": "2022-09-02T22:46:06Z",
+    "content": "The heat may be hitting Metas big bet.\r\nIllustration by Alex Castro / The Verge\r\nQualcomm and Meta have signed a multi-year agreement promising to team up on custom versions of Qualcomm's Snapdragon … [+3907 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Dan Lamothe",
+    "title": "Marines at Biden speech prompt debate about politicizing the military - The Washington Post",
+    "description": "Biden delivered his speech on the threa to democracy as two Marines in dress blues stood in the background. Critics question the presence of the Marines.",
+    "url": "https://www.washingtonpost.com/national-security/2022/09/02/biden-marines-backdrop-democracy-speech/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AUEVO5BKOYI63KIK7TSACXP4R4.jpg&w=1440",
+    "publishedAt": "2022-09-02T22:38:45Z",
+    "content": "Comment on this story\r\nThe White Houses decision to flank President Biden with U.S. Marines as he delivered a speech raising alarm about the authoritarian impulses of former president Donald Trump an… [+5077 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Uki Goñi",
+    "title": "Argentinians march for Cristina Kirchner after vice-president survives assassination bid - The Guardian",
+    "description": "Tens of thousands take to the streets to condemn political violence and show support for vice-president a day after shock attack",
+    "url": "https://amp.theguardian.com/world/2022/sep/02/argentina-cristina-fernandez-de-kirchner-protests-assassination-attempt",
+    "urlToImage": null,
+    "publishedAt": "2022-09-02T22:37:00Z",
+    "content": "ArgentinaTens of thousands take to the streets to condemn political violence and show support for vice-president a day after shock attack\r\nTens of thousands have taken to the streets across Argentina… [+5858 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "FBI found more than 11000 government records at Trump's Florida home - Reuters",
+    "description": "The FBI recovered more than 11,000 government documents and photographs during its Aug. 8 search at former President Donald Trump's Florida estate, as well as 48 empty folders labeled as \"classified,\" according to court records that were unsealed on Friday.",
+    "url": "https://www.reuters.com/world/us/us-court-unseals-more-documents-stemming-fbi-search-trumps-home-2022-09-02/",
+    "urlToImage": "https://www.reuters.com/resizer/-qDoS0AmXAYvYOqe74gg-sZN6kc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QN7SCD7KAVIDHI3EVDNBIZCWX4.jpg",
+    "publishedAt": "2022-09-02T22:25:00Z",
+    "content": "WASHINGTON, Sept 2 (Reuters) - The FBI recovered more than 11,000 government documents and photographs during its Aug. 8 search at former President Donald Trump's Florida estate, as well as 48 empty … [+4372 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jamiel Lynch, CNN",
+    "title": "Memphis police are looking for school teacher who was abducted while out for early morning jog - CNN",
+    "description": "Memphis Police are searching for school teacher Eliza 'Liza' Fletcher who they say was abducted while she was out on a jog Friday morning.",
+    "url": "https://www.cnn.com/2022/09/02/us/memphis-police-missing-teacher-eliza-eliza-fletcher-jog/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220902144912-02-memphis-missing-teacher-running-super-tease.jpg",
+    "publishedAt": "2022-09-02T22:14:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Graeme Massie",
+    "title": "Bill Barr tears apart Trump’s secret papers defence on Fox News - The Independent",
+    "description": "Former Attorney General defended FBI’s raid of Mar-a-Lago",
+    "url": "https://www.independent.co.uk/news/world/americas/us-politics/barr-trump-fbi-raid-documents-b2158769.html",
+    "urlToImage": "https://static.independent.co.uk/2022/09/02/22/Barr.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-09-02T22:10:49Z",
+    "content": "Donald Trumps former Attorney General Bill Barr tore apart the one-term presidents defence of having secret papers at his home during an appearance on Fox News.\r\nMr Barr defended the FBIs raid of Mr … [+1886 chars]"
+    },
+    {
+    "source": {
+    "id": "ign",
+    "name": "IGN"
+    },
+    "author": "Matt Kim",
+    "title": "Check Out 18 Minutes of Gameplay From New Tales From the Borderlands - IGN - IGN",
+    "description": "Gearbox has revealed 18 minutes of gameplay for New Tales From the Borderlands showing how your choices will gravely impact the story, as well as other unique moments.",
+    "url": "https://www.ign.com/articles/new-tales-from-the-borderlands-gameplay-reveal",
+    "urlToImage": "https://assets-prd.ignimgs.com/2022/09/02/ntftb-group-1662135644894.png?width=1280",
+    "publishedAt": "2022-09-02T22:07:30Z",
+    "content": "At PAX West, Gearbox Software revealed the first extended look at the gameplay for New Tales From the Borderlands. While Gearbox is committed to the narrative style pioneered by Telltale Games, there… [+1624 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Wall Street ends week on down note as jobs report gain fade - Reuters.com",
+    "description": "U.S stocks closed out the trading week on a down note on Friday, as early gains from a jobs report that showed a labor market that may be starting to loosen gave way to worries about the European gas crisis.",
+    "url": "https://www.reuters.com/markets/europe/snapshot-futures-jump-after-august-jobs-data-2022-09-02/",
+    "urlToImage": "https://www.reuters.com/resizer/650KKVKTKPxVrQjiDxN8zeLpAsI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JCNFFUCLEFOWNLYUYQ5JJDWUZM.jpg",
+    "publishedAt": "2022-09-02T21:43:00Z",
+    "content": "NEW YORK, Sept 2 (Reuters) - U.S stocks closed out the trading week on a down note on Friday, as early gains from a jobs report that showed a labor market that may be starting to loosen gave way to w… [+3847 chars]"
+    },
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Gunjan Banerji",
+    "title": "U.S. Stocks Fall 1% After Giving Up Early Gains - The Wall Street Journal",
+    "description": "A late-summer selloff in the stock market accelerated, with investors betting an encouraging monthly jobs report wouldn’t ultimately alter the Federal Reserve’s course on interest rates.",
+    "url": "https://www.wsj.com/articles/global-stocks-markets-dow-update-09-02-2022-11662114368",
+    "urlToImage": "https://images.wsj.net/im-615707/social",
+    "publishedAt": "2022-09-02T21:10:00Z",
+    "content": null
+    }
     ]
-}
+    }
