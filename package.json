@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Yadwendra.github.io/NewsMonkey",
   "name": "newsapp",
+  "homepage": "https://Yadwendra.github.io/newsapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
