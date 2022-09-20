@@ -7,7 +7,7 @@ const App = () => {
 
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename="/newsapp">
         <Router>
           <Navbar />
           <Switch>
